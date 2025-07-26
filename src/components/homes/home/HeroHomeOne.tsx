@@ -22,7 +22,7 @@ const HeroHomeOne = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="hero-content">
-                            <span className="wow fadeInUp">Welcome to UVEDL</span>
+                            <span className="wow fadeInUp">Welcome to UNEDL</span>
                             <h1 className="wow fadeInUp" data-wow-delay=".3s">
                                Universidad <br />Enrique Díaz de León
                             </h1>
