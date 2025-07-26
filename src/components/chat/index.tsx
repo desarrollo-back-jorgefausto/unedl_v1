@@ -59,7 +59,7 @@ export default function QuiquebotWidget({
           width={110}
           height={90}
         />
-        <div className="small fw-semibold pt-1" style={{color: "orange"}}>Qiqebot</div>
+        <div className="small fw-semibold pt-1" style={{color: "orange"}}>Quikebot</div>
       </div>
 
       {/* Panel flotante */}
